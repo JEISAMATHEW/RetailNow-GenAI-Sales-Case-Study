@@ -116,12 +116,22 @@ RetailNow-GenAI-Sales-Case-Study/
 ├── README.md
 ├── RetailNow_Case_Study_Brief.pdf
 ├── Retail_Case_Study_using_GenAI.pptx
-├── Gen Al Case Study - Retail_Sales_Dashboard.png
-├── Gen Al Case Study - Retail_Sales_Prompt.jpg
-├── Gen Al Case Study - Retail_Sales.mp4
-└── Gen AI Case Study Dataset's Detailed Error.png
+├── Gen_Al_Case_Study_Retail_Sales_Dashboard.png
+├── Gen_Al_Case_Study_Retail_Sales_Prompt.jpg
+├── Gen_Al_Case_Study_Retail_Sales.mp4
+└── Gen_AI_Case_Study_Dataset's_Detailed_Error.png
 
 ```
+
+## 🖼️ Screenshots
+
+**Overview**
+
+![Gen_Al_Case_Study_Retail_Sales_Dashboard.png](Gen_Al_Case_Study_Retail_Sales_Dashboard.png)
+
+**Prompt Image**
+
+![Gen_Al_Case_Study_Retail_Sales_Prompt.jpg](Gen_Al_Case_Study_Retail_Sales_Prompt.jpg)
 
 ## 📌 Project Deliverables
 
@@ -130,7 +140,3 @@ RetailNow-GenAI-Sales-Case-Study/
 * Appendix of GenAI prompts used, with notes on what was kept or changed
 * Video walkthrough of the dashboard and analysis
 
-## 🔗 Connect
-
-**Jeisa Mathew**
-[LinkedIn](https://www.linkedin.com/in/jeisamathew/) • [GitHub](https://github.com/JEISAMATHEW)
