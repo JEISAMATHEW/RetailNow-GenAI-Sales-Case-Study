@@ -127,11 +127,11 @@ RetailNow-GenAI-Sales-Case-Study/
 
 **Overview**
 
-![Gen_Al_Case_Study_Retail_Sales_Dashboard.png](Gen_Al_Case_Study_Retail_Sales_Dashboard.png)
+![Gen_Al_Case_Study_Retail_Sales_Dashboard.png](Gen_AI_Case_Study_Retail_Sales_Dashboard.png)
 
 **Prompt Image**
 
-![Gen_Al_Case_Study_Retail_Sales_Prompt.jpg](Gen_Al_Case_Study_Retail_Sales_Prompt.jpg)
+![Gen_AI_Case_Study_Retail_Sales_Prompt_Image.jpg](Gen_AI_Case_Study_Retail_Sales_Prompt_Image.jpg)
 
 ## 📌 Project Deliverables
 
